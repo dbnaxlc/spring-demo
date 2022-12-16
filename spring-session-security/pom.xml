@@ -17,7 +17,7 @@
 		<jstl.version>1.2</jstl.version>
 		<!-- spring 和 spring security -->
 		<spring-security.version>4.2.3.RELEASE</spring-security.version>
-		<spring-framework.version>4.3.11.RELEASE</spring-framework.version>
+		<spring-framework.version>5.2.20.RELEASE</spring-framework.version>
 		<!-- Logging -->
 		<logback.version>1.0.13</logback.version>
 		<slf4j.version>1.7.5</slf4j.version>
